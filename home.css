@@ -1,0 +1,128 @@
+*{
+    margin: auto;
+}
+.head{
+    background-color: wheat;
+}
+.head h1{
+    font-size: 100px;
+    text-align: center;
+}
+.head p{
+    font-size: 45px;
+    text-align: center;
+}
+
+.info h2{
+    font-size: 38px;
+    margin-left: 20px;
+    margin-top: 30px;
+
+}
+.info p{
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+
+.tablets h2{
+	margin-top:100px ;
+	float: right;
+	font-weight: bold;
+	font-size: 30px;
+    margin-right: 500px;
+	
+}
+
+.tablets img{
+	margin-top: 25px;
+    height: 300px;
+    width: 300px;
+	border-radius: 50px;
+	margin-left: 100px;
+   
+}
+
+.font p{
+	font-size: 23px;
+	margin-left : 630px;
+    margin-top: -300px;
+}
+
+.injections img{
+    margin-top: 10px;
+    height: 300px;
+    width: 300px;
+    border-radius: 50px;
+    margin-left: 800px;
+}
+
+.injections h2{
+    float: left;
+    font-size: 30px;
+    margin-left: 150px;
+    font-weight: bold;
+    margin-top: -250px;
+}
+
+.injections p{
+    float: left;
+    font-size: 23px;
+    margin-left: 200px;
+    margin-top: -210px;
+}
+
+.syrups img{
+    margin-top: 20px;
+    height: 300px;
+    width: 300px;
+	border-radius: 50px;
+	margin-left: 100px;
+}
+
+
+.syrups h2{
+	margin-top:100px ;
+	float: right;
+	font-weight: bold;
+	font-size: 30px;
+    margin-right: 500px;
+	
+}
+.syrups p{
+    font-size: 23px;
+	margin-left : 628px;
+    margin-top: -300px;
+}
+
+.ointments img{
+    margin-top: 30px;
+    height: 300px;
+    width: 300px;
+    border-radius: 50px;
+    margin-left: 800px;
+}
+
+.ointments h2{
+    float: left;
+    font-size: 30px;
+    margin-left: 150px;
+    font-weight: bold;
+    margin-top: -300px;
+}
+
+.ointments p{
+    float: left;
+    font-size: 23px;
+    margin-left: 200px;
+    margin-top: -235px;
+}
+
+fieldset{
+    margin-top: 80px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+    
+}

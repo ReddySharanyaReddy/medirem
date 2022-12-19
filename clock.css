@@ -1,0 +1,72 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+    padding-top:50px;
+}
+
+
+body {
+    border: 8px solid blanchedalmond;
+    border-radius: 20px;
+    padding: 40px;
+    width: 60%;
+    height: 400px;
+    margin: 0 auto;
+    background: url(https://5.imimg.com/data5/ZT/DO/FO/SELLER-5802447/sauna-sand-timer-1000x1000.jpg);
+}
+
+
+#clock {
+    height:120px;
+    font-size: 40px;
+    font-family: arial;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  color: rgb(194, 10, 10);
+}
+
+h2 {
+	text-align:center;
+}
+
+#alarm-container {
+	text-align:center;
+    font-family: Verdana;
+    font-size: 0.6em;
+    padding: 0.7em;
+  color: rgb(24, 6, 6);
+}
+
+label {
+	display:inline-block;
+}
+
+.timeofday {
+    background-color: rgb(10, 0, 0);
+}
+
+.bigger {
+    font-weight:bold;
+    font-size: 18px;
+}
+
+#sounds {
+    text-align: center;
+    padding-top: 20px;
+}
+
+#setButton {
+    float:left;
+    background-color:lightgreen;
+    margin-top:10px;
+}
+#clearButton {
+    float:right;
+    background-color:red;
+    margin-top:10px;
+}
+
